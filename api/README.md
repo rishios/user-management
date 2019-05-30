@@ -1,7 +1,7 @@
 
 # user-management-api
 
-User Management REST API with nodejs, express &amp; mongodb.
+User Management REST API with nodejs, express and mongodb.
 
 
 
